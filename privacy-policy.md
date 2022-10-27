@@ -1,7 +1,7 @@
 Privacy Policy of Cash Driver
 Changes to This Privacy Policy
 
-Updated September, 22 2021
+Updated October, 27 2022
 
  
 
