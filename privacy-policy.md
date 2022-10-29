@@ -28,7 +28,7 @@ We use IP addresses to analyze trends, administer our site and servers, track ac
 
 Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the cash-driver website. More information about cookies can be found at https://en.wikipedia.org/wiki/HTTP_cookie
 
-<h2>The APP (Cash Driver)<h2>
+<h2>The APP (Cash Driver)</h2>
 Cash Driver might collect Information as your position (location data), Your Email & Your Name and these data will be saved  for and in your  Profile info and will not be shared with any third party!.
 
 
