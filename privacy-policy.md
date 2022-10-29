@@ -1,7 +1,7 @@
 Privacy Policy of Cash Driver
 Changes to This Privacy Policy
 
-####Updated October 2022
+<h1>Updated October 2022</h1>
 
 ####Cash Driver may collect location data in background to enable location tracking to track your rides even when the app is closed or not in use.
  
