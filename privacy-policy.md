@@ -1,40 +1,49 @@
-Privacy Policy of Cash Driver
-Changes to This Privacy Policy
+Privacy Policy  
+----------------
 
-<h1>Updated October 2022</h1>
+### Introduction  
+Our privacy policy will help you understand what information we collect at Cash Driver, how Cash Driver uses it, and what choices you have.
+Cash Driver built the Cash Driver app as a free app. This SERVICE is provided by Cash Driver at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
-<h3>Cash Driver may collect location data in background to enable location tracking to track your rides even when the app is closed or not in use.</h3>
- 
+### Information Collection and Use
 
-We cash-driver (cash-driver.com), are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
+Cash Driver collects location data for tracking your location when the app is in background or in use
 
-We are committed to protecting your privacy.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does use third party services that may collect information used to identify you. 
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PI", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
+### Cookies  
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-<h2>Information Collected</h2>
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-We may collect any or all of the information that via both automated means such as communications profiles and cookies. Personal Information you give us depends on the type of service, support, or sale inquiry, and may include your name, address, telephone number, fax number and email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name or other payment information. All sensitive information is collected on a secure server and data is transferred . When transferring personal information a security icon will appear in your browser.
- 
+### Location Information  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-<h2>Information Use</h2>
+### Device Information  
+We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
-This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. cash-driver may email its monthly newsletter to the primary contact e-mail on file, but customers are able to opt out of this newsletter at any time.
+### Service Providers  
+We may employ third-party companies and individuals due to the following reasons:  
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.  
 
-We use IP addresses to analyze trends, administer our site and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. It is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and SaaS applications.
- 
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-<h2>Cookies</h2>
+### Security  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-Your Internet browser has the in-built facility for storing small text files - "cookies" - that hold information which allows a website to recognize your account. We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the cash-driver website. More information about cookies can be found at https://en.wikipedia.org/wiki/HTTP_cookie
+### Children’s Privacy  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
-<h2>The APP (Cash Driver)</h2>
-Cash Driver might collect Information as your position (location data), Your Email & Your Name and these data will be saved  for and in your  Profile info and will not be shared with any third party!.
+### Changes to This Privacy Policy  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
-
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
-
-
-<h2>Contact Us</h2>
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+### Contact Us  
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+Contact Information:  
+Email: cashdriver.webrange@gmail.com
